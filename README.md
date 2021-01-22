@@ -15,4 +15,4 @@ Find shapes from image
 
 
 ## Command to run:
-#### python3 find_square.py -f 3.bmp --min_area 3000 --max_area 6000 
+### python3 find_square.py -f 3.bmp --min_area 3000 --max_area 6000 
