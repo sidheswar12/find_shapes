@@ -12,3 +12,7 @@ Find shapes from image
 #### Filter using minimum/maximum threshold area
 #### Calculate (x1,y1) and (x2, y2)
 #### Crop and save ROI
+
+
+## Command to run:
+#### python3 find_square.py -f 3.bmp --min_area 3000 --max_area 6000 
